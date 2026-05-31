@@ -9,7 +9,7 @@
 
 <div align="left">
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXN4M3dkcHZxbzZrcWQwYjVtZHNjeHBudHJ4anFkM3h3YjhuaWUwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hLw2NHOkhvDqx6wlln/giphy.gif"/>
 
 <p>
 I'm a developer passionate about building <b>AI-powered, mobile, and full-stack applications</b>.  
