@@ -1,4 +1,5 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<img width="3168" height="792" alt="Naveen_Banner" src="https://github.com/user-attachments/assets/12491109-17ab-461e-af4d-5e4024e5f05e" />
+
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
