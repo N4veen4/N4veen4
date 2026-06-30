@@ -3,7 +3,7 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Naveen Balaji</strong>
+  Hi There , This is <strong>Naveen Balaji</strong>
 </h1>
 
 <h3>AI/ML Engineer • Full Stack Developer </h3>
