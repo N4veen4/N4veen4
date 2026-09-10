@@ -1,4 +1,4 @@
-<img width="3168" height="792" alt="Naveen_Banner" src="https://github.com/user-attachments/assets/12491109-17ab-461e-af4d-5e4024e5f05e" />
+<img width="3168" height="792" alt="Naveen_Banner" src="file:///C:/Users/Naveen/OneDrive/Pictures/red_Black_Banner.jpeg" />
 
 
 <h1 align="left">
